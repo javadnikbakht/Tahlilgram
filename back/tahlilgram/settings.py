@@ -22,12 +22,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 #\SECRET_KEY = os.environ.get('TAHLILGRAM')
-SECRET_KEY = os.environ.get('TAHLILGRAM')
+SECRET_KEY = 'gwoka0a+cefkhb7^54^soy4t_)%g2tb^683!q%9l8-+xj^cr*n'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost','0.0.0.0']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','0.0.0.0','192.168.11.99']
 
 
 # Application definition
