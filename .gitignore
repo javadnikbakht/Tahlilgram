@@ -9,3 +9,4 @@ sqlite3.db
 .coverage
 htmlcov
 venv/
+back/media/posts/
